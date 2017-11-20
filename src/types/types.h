@@ -11,6 +11,5 @@ typedef std::uint64_t Timestamp;
 typedef std::string MarketDataKey;
 
 enum class Side {
-	BUY = 0,
-	SELL
+  BUY = 0, SELL
 };
